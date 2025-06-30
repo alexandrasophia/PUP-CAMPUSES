@@ -1,8 +1,11 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
+identifier,Identifier,,
+level,Cataloglevel,,
+classification,Classification,,
+worktype,Work Type,,
+title,Title,,
+creator,Creator,,
+data,Data created,,
 subject,Subjects,true
 location,Location
 latitude,Latitude
